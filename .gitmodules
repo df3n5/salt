@@ -1,0 +1,6 @@
+[submodule "formulas/owncloud"]
+	path = formulas/owncloud
+	url = git@github.com:df3n5/salt-formula-owncloud.git
+[submodule "formulas/owncloud-formula"]
+	path = formulas/owncloud-formula
+	url = git@github.com:df3n5/owncloud-formula.git

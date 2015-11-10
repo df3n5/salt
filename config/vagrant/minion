@@ -1,0 +1,6 @@
+id: vagrant
+
+file_roots:
+  base:
+    - /srv/salt
+    - /srv/formulas
